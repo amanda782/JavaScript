@@ -1,6 +1,3 @@
-# JavaScript
-Prática, projetos e anotações sobre JavaScript.
-
 # 🧠 Estudos de JavaScript
 
 Este repositório reúne todos os meus estudos práticos de JavaScript realizados durante meu aprendizado em cursos onlines. Aqui você encontrará exercícios, anotações, pequenos projetos e outras descobertas que fizeram parte da minha jornada.
